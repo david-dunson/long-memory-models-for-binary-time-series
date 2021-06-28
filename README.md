@@ -5,4 +5,4 @@ time series data with long range dependence. The model proposes a latent process
 decomposition in terms of a fixed but unknown trend component and fractional Brownian motion. For more details of the model and the 
 corresponding compuatational details please visit my [website](https://antik015.github.io/publications/).
 
-The code depends on the R packages "doParallel" and "tmvtnorm", so make sure you install them from CRAN before running it.
+The code depends on the R packages "doParallel" and "tmvtnorm", so make sure you install them from CRAN before running it. To run the Windows version, download the frap_windows.R  and git_demo_run. R file into your current folder in R. Then run the git_demo_run.R file. 
